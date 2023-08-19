@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Gowthamraj.g",
+      "fatherName": "gopalakrishnam",
+      "motherName": "dhanalashmi",
+      "isActive": true,
+      "role": "React Developer",
+      "id": 1
+      
+    }
+  ]
+}
